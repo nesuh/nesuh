@@ -1,61 +1,27 @@
-# Antenhe Sileshi - Software Engineer
+<h1 align="center">Hi 👋, I'm antenhe sileshi</h1>
+<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
-### Hi there 👋 I'm Antenhe Sileshi, a passionate software engineer with expertise in web and backend development. I enjoy solving complex problems and building scalable solutions using modern technologies.
+- 🔭 I’m currently working on [Automation Tender Preparation](https://github.com/nesuh/Authomation_Tender_Perparation)
 
----
+- 🌱 I’m currently learning **Nestjs, Golang, Vuejs ,Reactjs**
 
-## 🚀 About Me
+- 👯 I’m looking to collaborate on **Church finder**
 
-I am a **Software Engineering** graduate with a strong background in **Full-Stack Web Development**. I have experience in various technologies such as:
+- 💬 Ask me about **react,nestjs ,golang,Hasura graphql**
 
-- **Frontend**: React.js, Vue.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, Nest.js, Go, Python
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Other Technologies**: Docker, GraphQL, REST API, Hasura
+- 📫 How to reach me **antenhesileshi@gmail.com**
 
-I'm always open to new challenges and opportunities to grow my skills. I'm passionate about building impactful products and collaborating with teams to create innovative solutions.
+- ⚡ Fun fact **i**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🛠️ Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-- **Frontend**: React.js, Vue.js, HTML5, CSS3, Tailwind CSS
-- **Backend**: Node.js (Express, Nest.js), Go, Python (Flask, Django)
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **DevOps**: Docker, Git, GitHub Actions, Netlify, Vercel
-- **API**: RESTful APIs, GraphQL, Apollo, Hasura
-- **Others**: JWT Authentication, WebSocket, Redux, Redux-Saga
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesuh&show_icons=true&locale=en&layout=compact" alt="nesuh" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nesuh&show_icons=true&locale=en" alt="nesuh" /></p>
 
-## 💼 Projects
-
-### 1. [Song Manager Web Project](https://github.com/nesuh/AddisInternshipSongManagerWebProject)
-- **Description**: A web application to manage and play songs. Built with **React.js** for the frontend and **NestJS** for the backend.
-- **Technologies**: React.js, Redux, Styled System, NestJS, PostgreSQL
-
-### 2. [Movie API](https://github.com/username/movie-api)
-- **Description**: A simple RESTful API for managing movies. Developed using **Go** and **Gorilla Mux**.
-- **Technologies**: Go, Gorilla Mux, PostgreSQL
-
-### 3. [Procurement Requisition System](https://github.com/username/procurement-system)
-- **Description**: A full-stack application for managing procurement processes. Built with **NestJS** for the backend and **React** for the frontend.
-- **Technologies**: React.js, NestJS, PostgreSQL, Faker.js
-
-### 4. [Personal Portfolio Website](https://github.com/username/portfolio-website)
-- **Description**: My personal portfolio to showcase my skills, projects, and achievements. Built using **React.js** and **Tailwind CSS**.
-- **Technologies**: React.js, Tailwind CSS, Netlify
-
----
-
-## 📫 Contact Me
-
-- **Email**: [antenhesileshi@example.com](mailto:antenhesileshi@example.com)
-- **LinkedIn**: [linkedin.com/in/antenhe-sileshi](https://www.linkedin.com/in/antenhe-sileshi)
-- **GitHub**: [github.com/nesuh](https://github.com/nesuh)
-
----
-
-## ⚡ Fun Fact
-
-When I'm not coding, I enjoy exploring new technologies, reading about the latest trends in software engineering, and contributing to open-source projects.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesuh&" alt="nesuh" /></p>
